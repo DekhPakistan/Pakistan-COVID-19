@@ -1,2 +1,2 @@
-Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
-Pakistan,"2020-04-13 23:07:34",30.3753,69.3451,5496,93,1095,4308,Pakistan
+Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio
+,Pakistan,"2020-04-13 23:07:34",30.3753,69.3451,5496,93,1095,4308,Pakistan,,
