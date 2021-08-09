@@ -1,0 +1,8 @@
+Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio
+"Azad Jammu and Kashmir",Pakistan,"2020-09-22 04:23:00",34.027401,73.947253,2550,69,2274,207,"Azad Jammu and Kashmir, Pakistan",63.03508755,2.705882353
+Balochistan,Pakistan,"2020-09-22 04:23:00",28.328492,65.898403,14499,145,13150,1204,"Balochistan, Pakistan",117.4539921,1.00006897
+Gilgit-Baltistan,Pakistan,"2020-09-22 04:23:00",35.792146,74.982138,3513,82,3060,371,"Gilgit-Baltistan, Pakistan",346.5918957,2.334187304
+Islamabad,Pakistan,"2020-09-22 04:23:00",33.665087,73.121219,16207,180,15597,430,"Islamabad, Pakistan",807.6959112,1.110631209
+"Khyber Pakhtunkhwa",Pakistan,"2020-09-22 04:23:00",34.485332,72.09169,37387,1258,35613,516,"Khyber Pakhtunkhwa, Pakistan",122.4864711,3.364805949
+Punjab,Pakistan,"2020-09-22 04:23:00",30.811346,72.139132,98487,2227,94971,1289,"Punjab, Pakistan",89.52351044,2.26121214
+Sindh,Pakistan,"2020-09-22 04:23:00",26.009446,68.776807,134243,2463,128494,3286,"Sindh, Pakistan",280.3384226,1.834732537
