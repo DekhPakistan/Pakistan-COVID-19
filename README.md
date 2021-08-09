@@ -18,7 +18,7 @@ YYYY-MM-DD.csv in UTC.
 ### Field description
 * <b>Province_State</b>: Province, state or dependency name.
 * <b>Country_Region</b>: Country, region or sovereignty name.
-* <b>Last Update</b>: MM/DD/YYYY HH:mm:ss  (24 hour format, in UTC).
+* <b>Last Update</b>: YYYY-MM-DD HH:mm:ss  (24 hour format, in UTC).
 * <b>Lat</b> and <b>Long_</b>: Latitude and Longitude locations on the map. All points shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state.
 * <b>Confirmed</b>: Counts include confirmed and probable (where reported).
 * <b>Deaths</b>: Counts include confirmed and probable (where reported).
