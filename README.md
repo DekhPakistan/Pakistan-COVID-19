@@ -1,4 +1,21 @@
-# Pakistan COVID-19 Dataset
+<p align="center">
+    <img src="https://img.shields.io/badge/Dekh%20-Pakistan-green?style=for-the-badge&logo=appveyor"
+        height="130">
+</p>
+<p align="center">
+    <a href="https://github.com/dekhpakistan/Pakistan-COVID-19/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/DekhPakistan/Pakistan-COVID-19" /></a>
+    <a href="https://github.com/DekhPakistan/Pakistan-COVID-19/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/DekhPakistan/Pakistan-COVID-19" /></a>
+    <a href="https://twitter.com/intent/follow?screen_name=DekhPakistan">
+        <img src="https://img.shields.io/twitter/follow/DekhPakistan?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+   <a href="https://youtube.com/DekhPakistan">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCB3mODujzDDpDgtd8voduMw?style=social"
+            alt="subscribe on Youtube"></a>
+  <code>Copyrights DekhPakistan</code>
+</p>
+<h1>Pakistan COVID-19 Dataset</h1>
 
 This is the data repository for the 2019 Novel Coronavirus cases in Pakistan.
 
