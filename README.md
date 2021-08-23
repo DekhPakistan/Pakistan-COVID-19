@@ -6,7 +6,7 @@ This is the data repository for the 2019 Novel Coronavirus cases in Pakistan.
 
  * [Daily reports (daily_reports)](#daily-reports-daily_reports)
  * [Combined report (combined_report.csv)](#combined-report-combined_reportcsv)
- * [Daily country cases (daily_country_cases.csv)](#daily-country-cases-daily_country_casescsv)
+ * [Country cases timeline (country_cases_timeline.csv)](#country-cases-timeline-country_cases_timelinecsv)
  * [Data sources](#data-sources)
 
 ## [Daily reports (daily_reports)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/master/daily_reports)
