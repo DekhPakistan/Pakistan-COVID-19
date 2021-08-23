@@ -5,7 +5,8 @@ This is the data repository for the 2019 Novel Coronavirus cases in Pakistan.
 ## Table of contents
 
  * [Daily reports (daily_reports)](#daily-reports-daily_reports)
- * [Combined report (combined_report)](#combined-report-combined_reportcsv)
+ * [Combined report (combined_report.csv)](#combined-report-combined_reportcsv)
+ * [Daily country cases (daily_country_cases.csv)](#daily-country-cases-daily_country_casescsv)
  * [Data sources](#data-sources)
 
 ## [Daily reports (daily_reports)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/master/daily_reports)
@@ -31,6 +32,16 @@ YYYY-MM-DD.csv in UTC.
 ## [Combined report (combined_report.csv)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/main/combined_report.csv)
 
 This file contains all the daily cases reports combined into one.
+
+## [Country cases timeline (country_cases_timeline.csv)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/main/country_cases_timeline.csv)
+
+This file contains timeline of cases in Pakistan (no provincial data).
+
+### Field description
+* <b>Date</b>: YYYY-MM-DD
+* <b>Deaths</b>: Deaths till that date.
+* <b>Recoveries</b>: Recoveries till that date.
+* <b>Total</b>: Total number of cases till that date.
 
 ## Data sources
 * [Government of Pakistan](http://covid.gov.pk/stats/pakistan)
