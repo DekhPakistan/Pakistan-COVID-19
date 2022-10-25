@@ -5,7 +5,6 @@ This is the data repository for the 2019 Novel Coronavirus cases in Pakistan.
 ## Table of contents
 
  * [Daily reports (daily_reports)](#daily-reports-daily_reports)
- * [Combined report (combined_report.csv)](#combined-report-combined_reportcsv)
  * [Country cases timeline (country_cases_timeline.csv)](#country-cases-timeline-country_cases_timelinecsv)
  * [Data sources](#data-sources)
 
@@ -28,10 +27,6 @@ YYYY-MM-DD.csv in UTC.
 * <b>Incident_Rate</b>: Incidence Rate = cases per 100,000 persons.
 * <b>Case_Fatality_Ratio (%)</b>: Case-Fatality Ratio (%) = Number recorded deaths / Number cases.
 * All cases, deaths, and recoveries reported are based on the date of initial report.
-
-## [Combined report (combined_report.csv)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/main/combined_report.csv)
-
-This file contains all the daily cases reports combined into one.
 
 ## [Country cases timeline (country_cases_timeline.csv)](https://github.com/DekhPakistan/Pakistan-COVID-19/tree/main/country_cases_timeline.csv)
 

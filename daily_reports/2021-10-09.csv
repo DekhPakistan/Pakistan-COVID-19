@@ -1,7 +1,7 @@
 Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incident_Rate,Case_Fatality_Ratio
-"Azad Jammu and Kashmir",Pakistan,"2021-10-10 04:21:38",34.027401,73.947253,34399,739,,,"Azad Jammu and Kashmir, Pakistan",848.8477927584302,2.148318265065845
+"Azad Jammu and Kashmir",Pakistan,"2021-10-10 04:21:38",34.027401,73.947253,34399,739,,,"Azad Jammu and Kashmir, Pakistan",850.3309712891244,2.148318265065845
 Balochistan,Pakistan,"2021-10-10 04:21:38",28.328491999999997,65.898403,33072,350,,,"Balochistan, Pakistan",267.9107819508234,1.0582970488630865
-Gilgit-Baltistan,Pakistan,"2021-10-10 04:21:38",35.792146,74.982138,10348,186,,,"Gilgit-Baltistan, Pakistan",1020.931664272522,1.7974487823734056
+Gilgit-Baltistan,Pakistan,"2021-10-10 04:21:38",35.792146,74.982138,10348,186,,,"Gilgit-Baltistan, Pakistan",1020.9316642725221,1.7974487823734056
 Islamabad,Pakistan,"2021-10-10 04:21:38",33.665087,73.121219,106113,931,,,"Islamabad, Pakistan",5288.272735790193,0.877366580909031
 "Khyber Pakhtunkhwa",Pakistan,"2021-10-10 04:21:38",34.485332,72.09169,175735,5636,,,"Khyber Pakhtunkhwa, Pakistan",575.7391606582379,3.2071016018436853
 Punjab,Pakistan,"2021-10-10 04:21:38",30.811346,72.13913199999998,435882,12780,,,"Punjab, Pakistan",396.2115485083042,2.9319861797458944
